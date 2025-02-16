@@ -1,6 +1,6 @@
 ### NextJS Learn
 
-<p>Repository gabungan untuk belajar deploy dengan menggunakan vercel.</p>
+Repository gabungan untuk belajar deploy dengan menggunakan [vercel.com](vercel.com).
 
 ---
 
