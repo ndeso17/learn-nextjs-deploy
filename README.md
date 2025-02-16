@@ -1,4 +1,10 @@
-## Getting Started
+### NextJS Learn
+
+<p>Repository gabungan untuk belajar deploy dengan menggunakan vercel.</p>
+
+---
+
+### Getting Started
 
 Membuat file .env yang isinya :
 
@@ -58,3 +64,8 @@ Prisma Studio Web Page : [http://localhost:5555](http://localhost:5555)
 ---
 
 Demo : [https://nextjs-ndeso17.vercel.app](https://nextjs-ndeso17.vercel.app)
+
+Kerangka Project :
+
+1. [AuthJS - NextJS](https://github.com/ndeso17/Auth-JS-Learn)
+2. [CRUD - NextJS](https://github.com/ndeso17/crud-nextjs)
