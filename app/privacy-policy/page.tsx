@@ -19,7 +19,16 @@ const PrivacyPolicy = () => {
         <a href="https://policies.google.com/privacy">here</a>.
       </p>
       <h2>4. Contact Us</h2>
-      <p>If you have questions, contact us at support@example.com.</p>
+      <p>
+        If you have questions, contact us at{" "}
+        <a
+          href="https://github.com/ndeso17"
+          className="text-gray-700 font-bold"
+        >
+          ndeso17
+        </a>
+        .
+      </p>
     </div>
   );
 };
