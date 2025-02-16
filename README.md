@@ -9,7 +9,7 @@ Repository gabungan untuk belajar deploy dengan menggunakan [vercel.com](vercel.
 Membuat file .env yang isinya :
 
 ```
-// Neon vercel.com
+# Neon vercel.com
 DATABASE_URL=postgres://neondb_owner:xxxxxx
 DATABASE_URL_UNPOOLED=postgresql://neondb_owner:xxxxxx
 PGHOST=xxxxxx
@@ -28,14 +28,14 @@ POSTGRES_PRISMA_URL=postgres://neondb_owner:xxxxxx
 connect_timeout=xxxxxx
 sslmode=xxxxxx
 
-//Random String (Opsional 64 karakter)
+# Random String (Opsional 64 karakter)
 AUTH_SECRET="xxxxxx"
 
-// https://console.cloud.google.com
+# https://console.cloud.google.com
 AUTH_GOOGLE_ID="xxxxxx"
 AUTH_GOOGLE_SECRET="xxxxxx"
 
-// https://github.com/settings/developers
+# https://github.com/settings/developers
 AUTH_GITHUB_ID="xxxxxx"
 AUTH_GITHUB_SECRET="xxxxxx"
 
